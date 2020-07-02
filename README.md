@@ -13,3 +13,4 @@ Em outro momento criei também a plataforma que visava comparar o preço de imó
 Para mim foi bastante útil, gastei bem menos tempo para procurar imóveis.
 Se for útil para voce também, considere retribuir marcando o projeto com a estrela no topo da página.
 
+Icons From: https://icons8.com.br/
