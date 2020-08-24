@@ -1,6 +1,6 @@
 # ImoveisBH3
 
-Link da plataforma: https://maps.csr.ufmg.br/calculator/?queryid=160
+Link da plataforma: https://maps.csr.ufmg.br/calculator/?queryid=160&options=capabilities
 
 Criei esse projeto pela dificuldade de encontrar um imóvel para aluguel.
 Eu precisava de uma plataforma objetiva que me permitisse filtrar pela localização, preço e algumas outras informações adicionais.
